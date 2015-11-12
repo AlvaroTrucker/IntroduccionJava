@@ -1,0 +1,6 @@
+#ignorando  los class, html, css y la carpeta resources
+
+*.class
+*.html
+*.css
+/resources
